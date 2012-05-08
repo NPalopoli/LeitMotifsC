@@ -1,0 +1,55 @@
+>Cluster 0
+0	1718aa, >RIZ_PRDM2/Q13029/... *
+>Cluster 1
+0	1690aa, >RBP2_JARID1A/A8MV... *
+>Cluster 2
+0	1647aa, >BRG1_SMCA4/P51532... *
+>Cluster 3
+0	1616aa, >DNMT1/P26358/?... *
+>Cluster 4
+0	1579aa, >BRM_SMCA2/P51531/... *
+1	1572aa, >SMARCA/Q5T4E0/129... at 99%
+>Cluster 5
+0	1374aa, >Ask1_M3K5/Q99683/... *
+>Cluster 6
+0	1148aa, >RFC1/P35251/663-6... *
+>Cluster 7
+0	1107aa, >DPOD1/P28340/711-... *
+>Cluster 8
+0	1001aa, >BRE1B_RBP95/O7515... *
+>Cluster 9
+0	963aa, >UNP_USP4/Q13107/4... *
+>Cluster 10
+0	897aa, >CtIP_RBBP8_RIM/Q9... *
+>Cluster 11
+0	848aa, >AhR/P35869/331-33... *
+>Cluster 12
+0	819aa, >RBP1_ARID4A/A8MYU... *
+>Cluster 13
+0	785aa, >IF16_IFI16/Q16666... *
+>Cluster 14
+0	764aa, >UBF/P17480/307-31... *
+>Cluster 15
+0	704aa, >Hsp75_TRAP1/Q1293... *
+>Cluster 16
+0	642aa, >Hec1_KNTC2/O14777... *
+>Cluster 17
+0	619aa, >Elf-1/P32519/51-5... *
+>Cluster 18
+0	514aa, >HBP1/O60381/35-39... *
+>Cluster 19
+0	482aa, >HDAC1/Q13547/414-... at 86%
+1	488aa, >HDAC2/Q92769/415-... *
+>Cluster 20
+0	412aa, >Suv39h1/O43463/?... *
+>Cluster 21
+0	295aa, >CCND1/P24385/5-9... *
+>Cluster 22
+0	289aa, >CCND2/P30279/3-9... at 63%
+1	292aa, >CCND3/P30281/3-7... *
+>Cluster 23
+0	191aa, >HP1_CBX5/P45973/5... *
+>Cluster 24
+0	187aa, >EID-1/Q9Y6B2/178-... *
+>Cluster 25
+0	186aa, >Bog_RBBP9/O75884/... *

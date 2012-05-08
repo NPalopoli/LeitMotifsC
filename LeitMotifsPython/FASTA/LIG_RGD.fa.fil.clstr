@@ -1,0 +1,25 @@
+>Cluster 0
+0	2813aa, >sp|P04275|VWF_HUM... *
+>Cluster 1
+0	2477aa, >sp|P11276|FINC_MO... *
+>Cluster 2
+0	2386aa, >sp|P02751|FINC_HU... *
+>Cluster 3
+0	481aa, >sp|P17349|DIS1_TR... *
+1	73aa, >sp|P17495|DISB_TR... at 72%
+2	73aa, >sp|P62384|DISG_TR... at 76%
+>Cluster 4
+0	480aa, >sp|O43854|EDIL3_H... *
+>Cluster 5
+0	478aa, >sp|P04004|VTNC_HU... *
+1	478aa, >sp|P29788|VTNC_MO... at 74%
+>Cluster 6
+0	317aa, >sp|P21815|SIAL_HU... at 70%
+1	320aa, >sp|P13839|SIAL_RA... *
+>Cluster 7
+0	314aa, >sp|P10451|OSTP_HU... at 65%
+1	317aa, >sp|P08721|OSTP_RA... *
+>Cluster 8
+0	278aa, >sp|P31096|OSTP_BO... *
+>Cluster 9
+0	253aa, >sp|P02887|DIS1B_D... *

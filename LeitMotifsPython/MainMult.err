@@ -1,0 +1,2 @@
+/home/npalopoli/Programs/LeitMotifs/StAlg.py:6: DeprecationWarning: the sets module is deprecated
+  import sets #@UnusedImport
